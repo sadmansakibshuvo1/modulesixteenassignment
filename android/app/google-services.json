@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069331690808",
+    "project_id": "bubbly-machine-343212",
+    "storage_bucket": "bubbly-machine-343212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069331690808:android:13bfb5f938378550a3fdcd",
+        "android_client_info": {
+          "package_name": "com.example.modulesixteenassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACIuv3fhIbECNaJ7HKr9MLMeDyBpMnF1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
